@@ -1,5 +1,9 @@
 # Android Form Gotchas
 
+## Relevant Files
+- [activity_main.xml](https://github.com/MauroHorie/Android-Form-Gotchas/blob/master/app/src/main/res/layout/activity_main.xml)
+- [MainActivity.java](https://github.com/MauroHorie/Android-Form-Gotchas/blob/master/app/src/main/java/com/mkhorie/formgotchas/MainActivity.java)
+
 ## Specs
 
 What we are trying to accomplish:
@@ -79,6 +83,7 @@ and referenced in the layout file: (although the width could be directly coded i
             android:layout_width="@dimen/form_width"
             android:layout_height="wrap_content">
 ```
+<br/> 
 
 #### 4. The content should be centered horizontally and vertically
 
