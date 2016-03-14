@@ -3,6 +3,7 @@
 ## Relevant Files
 - [activity_main.xml](https://github.com/MauroHorie/Android-Form-Gotchas/blob/master/app/src/main/res/layout/activity_main.xml)
 - [MainActivity.java](https://github.com/MauroHorie/Android-Form-Gotchas/blob/master/app/src/main/java/com/mkhorie/formgotchas/MainActivity.java)
+- [AndroidManifest.xml](https://github.com/MauroHorie/Android-Form-Gotchas/blob/master/app/src/main/AndroidManifest.xml)
 
 ## Specs
 
